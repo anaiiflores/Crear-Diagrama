@@ -16,6 +16,6 @@ Incluye getters y setters.
 ![image](https://user-images.githubusercontent.com/114684316/222777722-28512c03-3568-4f35-8710-5da7452db731.png)
 
 ###### Página de referencia:
-[[Cómo organizar un concierto: 10 puntos clave (weezevent.com)](https://weezevent.com/es/blog/como-organizar-un-concierto-10-puntos-clave/)]
+[Cómo organizar un concierto: 10 puntos clave (weezevent.com)(https://weezevent.com/es/blog/como-organizar-un-concierto-10-puntos-clave/)]
 
-https://weezevent.com/es/blog/como-organizar-un-concierto-10-puntos-clave/
+
