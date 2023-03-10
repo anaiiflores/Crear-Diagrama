@@ -2,20 +2,61 @@
 
 ### ENUNCIADO CONCIERTO:
  
+
+ENUNCIADO CONCIERTO:
+ 
 Una empresa de organización de eventos necesita almacenar al público, al artista y a los segurata. 
-De estos debemos saber su DNI, edad (mayores de 18 años), nivel educativo y ocio habitual.
-También debemos guardar del artista su género. Aparte las canciones que va a cantar(puede ser una lista). Por otra parte almacenar a las personas que se van a encargar de la seguridad; ID_seguridad y edad. Debemos poner que cada segurata tiene asignado a un segurata superior. Además cada segurata debe tener una app de control de acceso para poder controlar al público.
 
-Y de todos estos debemos saber el nombre, número y email.
-En segundo lugar debemos almacenar las entradas, que es lo más importante para la empresa:
+De todos estos debemos saber el 
+· Nombre
+· Número 
+· Email.
 
-Para empezar cada entrada tiene un formulario que se debe de completar.
-Debemos tener el identificador de entradas, nombre, precio y fecha. Las entradas pueden ser online o compradas en Taquilla. En las entradas online muestra el número de entradas QR y en las entradas de Taquilla mostrar el número de venta y la hora en la que fué comprada.
+También debemos guardar del artista: 
+· Género.
+ Un artista puede ser capaz de cantar varias canciones, en cambio, una canción, solo puede ser cantada por un artista. Aparte las canciones que va a cantar(una lista). 
+
+ Por otra parte almacenar a las personas que se van a encargar de la seguridad; 
+· ID_seguridad 
+· Edad
+
+Debemos poner que cada segurata tiene asignado a un segurata superior. Ya que un segurata superior se encarga de uno o más seguratas, en cambio un segurata superior sólo puede ser una persona.
+
+Además cada segurata debe tener una app de control de acceso para poder controlar al público, por lo que un segurata sólo puede tener una app de control de acceso y la app de acceso la tienen varios seguratas.
+
+
+Del público debemos saber:
+· DNI
+· Edad (mayores de 18 años)
+· Nivel educativo 
+· Ocio habitual.
+
+
+El público únicamente puede comprar una entrada, es decir, es una entrada por persona. Por lo que una persona no puede tener más de una persona.
+
+Entonces debemos almacenar las entradas:
+
+· Identificador de entradas
+· Nombre
+· Precio 
+· Fecha
+
+También cada entrada tiene un formulario que se debe de completar. Sólo se puede hacer un formulario por entrada. 
+
+Las entradas pueden ser online o compradas en Taquilla.
+
+En las entradas online muestra:
+· Número de entradas QR 
+
+En las entradas de Taquilla mostrar:
+· Número de venta 
+· Hora en la que fué comprada.
 
 Incluye getters y setters.  
 
+
 # Solución:
-![image](https://user-images.githubusercontent.com/114684316/222803484-b10d27ce-20ce-45c0-8113-a26001600f13.png)
+
 
 
 
