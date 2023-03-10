@@ -11,7 +11,8 @@ De todos estos debemos saber el
 
 También debemos guardar del artista: 
 * Género.
- Un artista puede ser capaz de cantar varias canciones, en cambio, una canción, solo puede ser cantada por un artista. Aparte las canciones que va a cantar(una lista). 
+
+Un artista puede ser capaz de cantar varias canciones, en cambio, una canción, solo puede ser cantada por un artista. Aparte las canciones que va a cantar(una lista). 
 
  Por otra parte almacenar a las personas que se van a encargar de la seguridad; 
 *  ID_seguridad 
