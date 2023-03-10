@@ -1,24 +1,21 @@
 # Crear-Diagrama
 
 ### ENUNCIADO CONCIERTO:
- 
-
-ENUNCIADO CONCIERTO:
- 
+  
 Una empresa de organización de eventos necesita almacenar al público, al artista y a los segurata. 
 
 De todos estos debemos saber el 
-· Nombre
-· Número 
-· Email.
+* Nombre
+* Número 
+* Email.
 
 También debemos guardar del artista: 
-· Género.
+* Género.
  Un artista puede ser capaz de cantar varias canciones, en cambio, una canción, solo puede ser cantada por un artista. Aparte las canciones que va a cantar(una lista). 
 
  Por otra parte almacenar a las personas que se van a encargar de la seguridad; 
-· ID_seguridad 
-· Edad
+*  ID_seguridad 
+* Edad
 
 Debemos poner que cada segurata tiene asignado a un segurata superior. Ya que un segurata superior se encarga de uno o más seguratas, en cambio un segurata superior sólo puede ser una persona.
 
@@ -26,34 +23,33 @@ Además cada segurata debe tener una app de control de acceso para poder control
 
 
 Del público debemos saber:
-· DNI
-· Edad (mayores de 18 años)
-· Nivel educativo 
-· Ocio habitual.
+* DNI
+* Edad (mayores de 18 años)
+* Nivel educativo 
+* Ocio habitual.
 
 
 El público únicamente puede comprar una entrada, es decir, es una entrada por persona. Por lo que una persona no puede tener más de una persona.
 
 Entonces debemos almacenar las entradas:
 
-· Identificador de entradas
-· Nombre
-· Precio 
-· Fecha
+* Identificador de entradas
+* Nombre
+* Precio 
+* Fecha
 
 También cada entrada tiene un formulario que se debe de completar. Sólo se puede hacer un formulario por entrada. 
 
 Las entradas pueden ser online o compradas en Taquilla.
 
 En las entradas online muestra:
-· Número de entradas QR 
+* Número de entradas QR 
 
 En las entradas de Taquilla mostrar:
-· Número de venta 
-· Hora en la que fué comprada.
+* Número de venta 
+* Hora en la que fué comprada.
 
 Incluye getters y setters.  
-
 
 # Solución:
 
