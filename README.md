@@ -57,6 +57,7 @@ Incluye getters y setters.
 
 # Solución:
 
+![trabajoEntInventarBUENOOO drawio](https://user-images.githubusercontent.com/114684316/224291524-4a7f5bed-883a-4810-8cfa-aa093e065122.png)
 
 
 
